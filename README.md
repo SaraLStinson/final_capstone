@@ -9,3 +9,7 @@ Data Questions: Is Tornado Alley still producing the most tornadoes every year o
 Data Sources: Data will be primarily collected from the Storm Events Database | National Centers for Environmental Information (noaa.gov). This database is a collection of all tornadoes reported by the NWS, government agencies (law enforcement, 911 call centers, etc.), meteorologists, storm chasers, trained spotters, and multiple other types of observers.
 
 Known Issues and Challenges: Due to data collected from multiple sources, there were numerous fields that were entered incorrectly (ex: putting a city in the 'date' column). Data cleaning involved removing incomplete or empty rows, moving incorrect entries to the correct ones, and appending all the files into one csv. Once the data was clean, I was able to further filter and analyze the data.
+
+LINK TO DASHBOARD
+-------------------------------------------------
+https://public.tableau.com/views/TornadoDashboard_16511203719260/TornadoAlley?:language=en-US&:display_count=n&:origin=viz_share_link
